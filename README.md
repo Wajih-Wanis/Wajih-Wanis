@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I am Wajih Wanis. Software and Machine Learning Engineer from Tunisia.</h2>
+<h2 align="left">Hello, I am Wajih Wanis. Software and Machine Learning Engineer</h2>
 
 ###
 
