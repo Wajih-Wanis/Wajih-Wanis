@@ -39,3 +39,17 @@
 </div>
 
 ###
+
+### Technologies Stack:
+- Python
+- TensorFlow
+- PyTorch
+- scikit-learn
+- NumPy
+- Pandas
+- HTML/CSS
+- JavaScript
+- React
+- Node.js
+- Git
+
