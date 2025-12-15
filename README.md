@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I am Wajih Wanis. AI Software Engineer at Expensya</h2>
+<h2 align="left">Hello, I am Wajih Wanis. SWE at Odoo</h2>
 
 ###
 
